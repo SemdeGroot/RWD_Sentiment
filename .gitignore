@@ -1,0 +1,4 @@
+*.docx
+venv/
+*.ipynb_checkpoints/
+data/
