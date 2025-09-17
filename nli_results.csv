@@ -1,0 +1,274 @@
+id,file,title,lead,bert_base_dutch_cased_finetuned_snli_label,bert_base_dutch_cased_finetuned_snli_positief,bert_base_dutch_cased_finetuned_snli_negatief,robbert_v2_dutch_finetuned_snli_label,robbert_v2_dutch_finetuned_snli_positief,robbert_v2_dutch_finetuned_snli_negatief,robbertje_dutch_finetuned_snli_label,robbertje_dutch_finetuned_snli_positief,robbertje_dutch_finetuned_snli_negatief
+7,Bericht 007 Nederlandse pati_nt wacht te lang op betere medicijnen tegen kanker.pdf,Nederlandse patiënt wacht te lang op betere medicijnen tegen kanker,"Wat een prachtig bericht onlangs, dat meer kankerpatiënten de afgelopen decennia bleven leven. Twee derde van
+de patiënten met de diagnose kanker leeft na vijf jaar nog. Een vooruitgang die volgens het Integraal
+Kankercentrum Nederland mede te danken is aan innovatieve geneesmiddelen tegen gevorderde en uitgezaaide
+kanker.",positief,0.6722040384235568,0.32779596157644314,positief,0.8130655990781557,0.18693440092184432,negatief,0.40595974325494477,0.5940402567450552
+10,Bericht 010_Nieuwe kankermedicijnen leveren meer financi_le winst op dan gezondheidswinst.pdf,Nieuwe kankermedicijnen leveren meer financiële winst op dan gezondheidswinst,"Vorige week verscheen in Trouw een artikel met de prikkelende kop: 'Kankerpatiënt krijgt te laat toegang tot
+nieuwe medicijnen.' De auteur van dit opiniestuk, zelf sinds 2018 longkankerpatiënt, stelt dat het veel te lang duurt
+voordat kankermedicijnen beschikbaar komen in ons land. 'Nederland is een mooi land waarin uiteindelijk bijna alle in de VS goedgekeurde kankergeneesmiddelen in het
+basispakket komen. Maar de wachttijd is te lang.",positief,0.6013997899654479,0.39860021003455215,positief,0.600150414466506,0.39984958553349403,negatief,0.490422136734878,0.509577863265122
+11,Bericht 011_Hoe controleer je verstopte moedervlekken_.pdf,Hoe controleer je verstopte moedervlekken?,"Preventie het consult
+Meer dan twintig jaar geleden ontdekte ze op haar buik een moedervlek die van kleur veranderde. Het bleek een
+melanoom, die bovendien was uitgezaaid naar de lymfeklieren. Artsen hebben alle kwaadaardige cellen
+weggehaald en de tumor is nooit meer teruggekomen.",positief,0.6275504709551296,0.3724495290448704,positief,0.5405577342083057,0.4594422657916942,negatief,0.3365605214157833,0.6634394785842167
+16,Bericht 016_Ik vind het erg als _n infuus van 25.000 euro wordt weggegooid_.pdf,'Ik vind het erg als 'n infuus van 25.000 euro wordt weggegooid',"Slimme ideeën van apotheker Roelof van Leeuwen besparen miljoenen
+Ellen van Gaalen
+Rotterdam
+Waarom schrijven artsen 1005 milligram van een oncologisch middel voor, terwijl de verpakkingen per 100
+milligram gaan? ,,Dan gooien we dus 95 procent weg. Dat zijn vaak dure medicijnen."" Eenmaal aan een patiënt
+gegeven middelen mogen na inlevering niet aan een andere patiënt worden gegeven.",positief,0.5943434245775704,0.4056565754224296,positief,0.6506027401583918,0.34939725984160824,negatief,0.41344861850630366,0.5865513814936963
+21,Bericht 021_Wachtlijsten en personeelstekort_ het _zorginfarct_ is er al lang_ De zorg is nu zelf pati_nt _ Zor.pdf,Wachtlijsten en personeelstekort: het 'zorginfarct' is er al lang; De zorg is nu zelf patiënt ; Zorg maar voor jezelf;,"Onbetaalbare zorg
+De gezondheidszorg kan het werk niet meer aan. Een rigoureuze omwenteling is nodig. ,,We zullen tegen
+mensen moeten zeggen: wat je zelf kunt, zul je zelf moeten doen.""
+VOLLEDIGE TEKST:
+De gezondheidszorg is 'op', er zit geen rek meer in.",positief,0.5635269705123314,0.4364730294876686,negatief,0.4937235932482482,0.5062764067517518,negatief,0.414378651778583,0.585621348221417
+26,Bericht 026_Tijd om te kiezen_ dure behandelingen of voldoende zorg voor ouderen _ Commentaar.pdf,Tijd om te kiezen: dure behandelingen of voldoende zorg voor ouderen ; Commentaar,"VOLLEDIGE TEKST:
+De gezondheidszorg kan de vraag niet meer aan. Dat bleek al tijdens de coronapandemie - waardoor de
+samenleving lange tijd stilgelegd moest worden. Sindsdien is het amper verbeterd.",positief,0.6206758535742465,0.3793241464257535,positief,0.732440275733151,0.2675597242668491,negatief,0.4316137056060102,0.5683862943939899
+28,Bericht 028_Doorbraak.pdf,Doorbraak,"Vorige maand maakte de Amerikaanse fotograaf Spencer Tunick weer een aantal iconische foto's van 2500 naakte
+mensen op het strand van Sydney. Hij deed dit om aandacht te vragen voor huidkanker. Het aantal deelnemers
+staat symbool voor de ruim 2000 Australiërs die jaarlijks aan huidkanker sterven.",positief,0.6601097860301317,0.3398902139698684,positief,0.6822452333397353,0.3177547666602648,positief,0.5566291413445505,0.4433708586554494
+30,Bericht 030_Toen gooiden we onze agenda_s om_.pdf,'Toen gooiden we onze agenda's om',"Onverwachte ontdekkingen
+'Je eigen immuunsysteem helpen tumoren te herkennen en uitschakelen: dat is in feite wat immuuntherapie doet. Het werkt langdurig tegen kanker, doordat je immuunsysteem de kanker leert herkennen en opruimen. Bovendien
+heeft het minder bijwerkingen dan chemotherapie, omdat je geen gezonde cellen doodt.",positief,0.6795371859541847,0.32046281404581534,positief,0.7085320899587247,0.29146791004127526,negatief,0.4403320677656443,0.5596679322343556
+35,Bericht 035_Zinloze chemo_s_  Interview Pati_nten krijgen vaak dure kankermedicijnen waar ze niets aan hebben.pdf,Zinloze chemo's; Interview Patiënten krijgen vaak dure kankermedicijnen waar ze niets aan hebben,"Interview Gabe Sonke internist-oncoloog Veel kankerpatiënten krijgen langdurig dure medicijnen waar ze geen
+dag langer door leven. Maar ze hebben wel veel bijwerkingen. Oncoloog Gabe Sonke wil dat veranderen.",positief,0.5326501140788231,0.4673498859211769,positief,0.5944557634642722,0.4055442365357278,negatief,0.36633020639419556,0.6336697936058044
+37,Bericht 037_Wetenschappers_ nieuwe stap tegen kanker (1).pdf,Wetenschappers: nieuwe stap tegen kanker,"Wetenschappers van het Leids Universitair Medisch Centrum (LUMC) en ziekenhuis Antoni van Leeuwenhoek in
+Amsterdam denken een nieuwe stap te kunnen zetten in de strijd tegen kanker. Ze hebben ontdekt hoe sommige immuuncellen in staat zijn tot het opsporen en verwijderen van tumoren die voor
+de gewone verdedigingsmechanismen van het menselijk immuunsysteem onzichtbaar zijn. Immuuntherapieën
+,,We begrijpen nu beter hoe deze immuuncellen werken tegen tumoren in kankerpatiënten en hoe we daar gebruik
+van kunnen maken bij het ontwikkelen van nieuwe immuuntherapieën"", zegt Emile Voest, hoogleraar medische
+oncologie en groepsleider in het Nederlands Kanker Instituut/Antoni van Leeuwenhoek.",positief,0.6951406566660927,0.30485934333390724,positief,0.6776644678065138,0.32233553219348615,negatief,0.4425751226270865,0.5574248773729136
+39,Bericht 039_Het dna van de tumor in kaart.PDF,Het dna van de tumor in kaart,"Geneeskunde Whole genome sequencing
+De patiënt heeft uitzaaiingen en is uitbehandeld, de tumor zit in haar linkerborst en bevat 171 dna-afwijkingen. Daaronder twee driver-mutaties, die de cellen zo hebben laten ontsporen dat er kanker is ontstaan. Twee
+doelgerichte behandelingen komen in aanmerking, er zijn zes experimentele onderzoeken waaraan de patiënt mee
+kan doen.",positief,0.6609998044816245,0.3390001955183755,positief,0.6881767300165644,0.3118232699834357,negatief,0.42056399943750256,0.5794360005624974
+45,Bericht 045_Heeft internist Blank de weg naar kankervrij leven gevonden_.pdf,Heeft internist Blank de weg naar kankervrij leven gevonden?,"Al vijftien jaar werkt Christian Blank aan betere immuunbehandelingen voor patiënten met uitgezaaide melanomen,
+een agressieve vorm van huidkanker. De van oorsprong Duitse internist doet dat in het in kanker gespecialiseerde
+ziekenhuis en onderzoeksinstituut Antoni van Leeuwenhoek in Amsterdam. Waar chemotherapie de kankercellen
+doodt, zorgt immuuntherapie ervoor dat onze afweer de foute cellen herkent en verwijdert.",positief,0.6379018520516093,0.3620981479483906,positief,0.6798126553231847,0.3201873446768154,negatief,0.3931317121740105,0.6068682878259894
+54,Bericht 054_Steeds meer kinderen overleven kanker.PDF,Steeds meer kinderen overleven kanker,"Meer kinderen en tieners blijven leven nadat ze kanker krijgen. De overlevingskans na vijf jaar steeg naar 83
+procent. ,,De behandelingen worden beter.''
+Ellen van Gaalen
+Utrecht
+In de jaren 90 leefde nog 73 procent van de kinderen vijf jaar nadat ze te horen kregen dat ze kanker hadden.",positief,0.6836306855259874,0.3163693144740126,positief,0.6892142011158755,0.31078579888412455,negatief,0.4048046562170497,0.5951953437829502
+55,bericht 055_Anne _12_ wil later zelf ook zieke kinderen helpen.pdf,Anne (12) wil later zelf ook zieke kinderen helpen,"Nicole Roelands
+Utrecht
+De 12-jarige Anne Hoffer is net thuis na een verblijf van driekwart jaar in het Prinses Máxima Centrum voor
+kinderoncologie. Ze werd er behandeld voor botkanker, kreeg veertien kuren en dertig bestralingen. Het gaat
+inmiddels beter.",positief,0.7213174378364033,0.2786825621635966,positief,0.7977815297848074,0.20221847021519254,negatief,0.4245316819230983,0.5754683180769017
+63,Bericht 063_Langer lijden of waardig sterven_ (1).PDF,Langer lijden of waardig sterven?,"Sterven hoeft geen eindeloze strijd te zijn. De laatste fase kan ook mooi en bijzonder zijn
+Longarts Sander de Hosson (46) en journalist en schrijver Els Quaegebeur (48) maakten samen het boek Leven
+toevoegen aan dagen. Quaegebeur schreef op wat De Hosson vertelde.",positief,0.6669098736048384,0.3330901263951616,positief,0.5970673376609722,0.4029326623390278,negatief,0.4703630901786405,0.5296369098213596
+66,Bericht 066_Mijn belangrijkste vraag_ wat wil je echt__.pdf,'Mijn belangrijkste vraag: wat wil je echt?',"Interview Sander de Hosson longarts
+Er zijn steeds meer middelen voor wie ernstig ziek is, maar soms ziet hij mensen ,,door de therapie van ellende uit
+elkaar vallen"". VOLLEDIGE TEKST:
+Vraag aan iemand wat palliatieve zorg is en negen van de tien mensen, als het begrip ze überhaupt iets zegt,
+zullen antwoorden dat het gaat om zorg in de laatste fase van iemands leven. De laatste weken, misschien in een
+hospice of zo.",positief,0.7153977224830164,0.28460227751698364,positief,0.7119340236793189,0.2880659763206811,positief,0.5345388130602082,0.46546118693979177
+67,Bericht 067_Effect dure nieuwe kankermedicijnen klein.pdf,Effect dure nieuwe kankermedicijnen klein,"Patiënten met uitgezaaide kanker leven gemiddeld genomen iets langer dan 25 jaar geleden. Maar die extra
+levensjaren zijn ongelijk verdeeld. Lang niet alle patiëntengroepen profiteren van de nieuwe (en vaak dure)
+medicijnen die met veel beloften op de markt komen.",positief,0.6275448016063928,0.3724551983936072,positief,0.5725172758102417,0.4274827241897583,negatief,0.41877548154519445,0.5812245184548056
+68,Bericht 068_Dure kankermedicijnen hebben een beperkt effect op de levensverwachting.pdf,Dure kankermedicijnen hebben een beperkt effect op de levensverwachting,"In bijna dertig jaar tijd ontwikkelden farmaceuten maar liefst twintig geneesmiddelen om de levensduur van
+patiënten met uitgezaaide longkanker te verlengen. Toch nam de kans dat zij na vijf jaar nog in leven waren in de
+periode tussen 1989 tot 2018 slechts met 7 procent toe, blijkt uit een studie van het Integraal Kankercentrum
+Nederland (IKNL). Longkankerpatiënten zijn niet de enigen die nauwelijks lijken te profiteren van de introductie van nieuwe, vaak
+prijzige medicijnen, blijkt uit de studie.",positief,0.6318255154150558,0.3681744845849442,positief,0.5277798780137264,0.4722201219862736,negatief,0.48038727103509693,0.5196127289649031
+69,Bericht 069_Geef nieuwe medicijnen geen groen licht_ maar oranje.pdf,"Geef nieuwe medicijnen geen groen licht, maar oranje","Dat nieuwe kankermedicijnen vaak weinig effect hebben, blijkt uit de gisteren gepubliceerde studie van het
+Integraal Kankercentrum Nederland. Al uit Brits onderzoek uit 2019 is bekend dat nog geen 10 procent van deze
+medicijnen de kwaliteit van leven van patiënten verbetert. En dat slechts 40 procent ervoor zorgt dat de patiënt
+langer leeft, gemiddeld amper drie maanden.",positief,0.5798799097537994,0.42012009024620056,positief,0.6071208417415619,0.3928791582584381,negatief,0.38198739502868706,0.6180126049713129
+70,Bericht 070_Nee_ dit middel wordt niet vergoed.pdf,"Nee, dit middel wordt niet vergoed","Hoe wordt bepaald of een medicijn te duur is? Een nieuw middel is werkzaam, maar te duur, vindt de minister. VOLLEDIGE TEKST:
+De werking is het probleem niet.",positief,0.5291464272487224,0.4708535727512776,positief,0.5418697079101797,0.45813029208982026,negatief,0.38524810357857464,0.6147518964214254
+74,Bericht 074_Goed dat grens wordt gesteld aan uitdijen basispakket _ Commentaar.pdf,Goed dat grens wordt gesteld aan uitdijen basispakket ; Commentaar,"VOLLEDIGE TEKST:
+Als er op één ding niet is bezuinigd afgelopen decennia, dan is het wel het basispakket van de zorgverzekering. Dat behelst alles van een bezoekje aan de huisarts tot een openhartoperatie. Alleen al de afgelopen vijf jaar stegen
+de uitgaven van 44,5 miljard euro tot 51,3 miljard.",positief,0.6980410705904608,0.30195892940953917,positief,0.730468519614085,0.269531480385915,negatief,0.3935672719348555,0.6064327280651445
+76,Bericht 076_Prognose baby_s met agressieve leukemie sterk verbeterd.pdf,Prognose baby's met agressieve leukemie sterk verbeterd,"Dat meldt het Prinses Máxima Centrum op basis van nieuw onderzoek dat woensdag in het New England Journal
+of Medicine is gepubliceerd. Volgens het centrum in Utrecht waar kinderoncologische expertise geconcentreerd is,
+wordt immuuntherapie met het geneesmiddel blinatumomab nu wereldwijd standaard. Het gaat specifiek om baby's met acute lymfatische leukemie (ALL) met een bepaalde fout in het DNA van de
+leukemiecellen, van wie de overlevingskans niet groot is.",positief,0.6406604551891422,0.3593395448108578,positief,0.6756121314879617,0.3243878685120384,negatief,0.44470911987683903,0.5552908801231611
+77,Bericht 077_Baby_s met leukemie geholpen dankzij Nederlands onderzoek.pdf,Baby's met leukemie geholpen dankzij Nederlands onderzoek,"Nieuw onderzoek laat zien dat baby's met een agressieve vorm van leukemie goed reageren op een middel dat
+het eigen afweersysteem aanspoort kankercellen op te ruimen. De internationale studie werd geleid door
+Nederlandse onderzoekers van het Prinses Máxima Centrum voor kinderoncologie. Bijna alle baby's die het middel blinatumomab kregen, zijn twee jaar later nog in leven.",positief,0.7246870753351252,0.2753129246648748,positief,0.7735855588171561,0.22641444118284393,negatief,0.3725961735277842,0.6274038264722158
+86,Bericht 086_Lat omhoog bij nieuwe kankermedicijnen (1).pdf,Lat omhoog bij nieuwe kankermedicijnen,"Gezondheidszorg - 5 vragen: oncologie
+1. Waarom is dat besluit genomen? Oncologen merken dat kankermedicijnen in de praktijk niet altijd de positieve resultaten halen die de zorgvuldig
+geregisseerde studies van de farmaceutische bedrijven beloven.",positief,0.649319329112714,0.35068067088728616,positief,0.6711848173341111,0.3288151826658889,negatief,0.4664579927921295,0.5335420072078705
+93,Bericht 093_Duur_ ja_effectief_niet per se.pdf,"Duur: ja,effectief:niet per se","Geneeskunde Kankermedicijnen
+Stel, u mag van een fabrikant een nieuwe auto uitzoeken. Geld speelt geen rol, iemand anders betaalt. Uw oog valt
+op een Ferrari.",positief,0.6840481662789284,0.31595183372107155,positief,0.5191300070026519,0.4808699929973481,negatief,0.40849230910814727,0.5915076908918527
+94,Bericht 094_Toezichthouder moet strenger omgaan met kankermedicijnen die valse hoop geven.pdf,Toezichthouder moet strenger omgaan met kankermedicijnen die valse hoop geven,"Farmaceutische bedrijven ontwikkelen zich steeds meer tot handelaren in valse hoop. Nieuwe, dure
+kankermedicijnen blijken minder goed te werken dan de farmaceuten hadden beloofd. En de beloofde
+gezondheidswinst was in veel gevallen al beperkt.",positief,0.54016930578013,0.45983069421986994,positief,0.5157119252687978,0.48428807473120217,negatief,0.2829301655292511,0.7170698344707489
+97,Bericht 097_De tijden van de Q-koorts zal ik nooit meer vergeten_ (1).PDF,'De tijden van de Q-koorts zal ik nooit meer vergeten',"Longarts Nico van 't Hullenaar stopt
+Hans van Alebeek
+Uden/Veghel
+Eigenlijk had hij net als zijn vader huisarts willen worden. Maar ja, daar was een wachtlijst voor. En zoals dat dan
+soms gaat, via een toevallig baantje als assistent bij een longarts ontdekte hij dat dat 'ook wel een heel erg leuk vak
+is'.",positief,0.6913327084745043,0.30866729152549566,positief,0.6164989457743749,0.3835010542256251,negatief,0.47330956808640656,0.5266904319135934
+99,Bericht 099_Harde keuzes zijn nodig in de zorg voordat nog meer mensen de dupe worden_ Commentaar.pdf,Harde keuzes zijn nodig in de zorg voordat nog meer mensen de dupe worden; Commentaar,"VOLLEDIGE TEKST:
+Nederland heeft niet meer de beste gezondheidszorg van de wereld. Zeker, de ziekenhuiszorg is heel goed, de
+spoed-, kraam- en huisartsenzorg ook. Maar er zijn te veel mensen die zorg nodig hebben en te weinig
+vakmensen om die te leveren.",positief,0.6195606383606294,0.3804393616393706,positief,0.5911601462805787,0.4088398537194212,negatief,0.38262194605868277,0.6173780539413172
+100,Bericht 100_Laat veelbelovende medicijnen snel_ maar gecontroleerd toe tot de markt.PDF,"Laat veelbelovende medicijnen snel, maar gecontroleerd toe tot de markt","Duur, maar effectief? Duur: ja, effectief: niet per se, stond boven het artikel over dure anti-kankermedicijnen (Wetenschap, 17/6). Er wordt
+uitgebreid toegelicht dat studieresultaten niet altijd voorspellen hoe een geneesmiddel in de echte wereld werkt.",positief,0.7229176570073873,0.2770823429926127,positief,0.7132414421246507,0.28675855787534943,negatief,0.456110546541758,0.543889453458242
+112,Bericht 112_Bang_ Voor kanker_ Welnee. Je moet ergens aan doodgaan__  KankeronderzoekPiet Borst krijgt _Amerik.pdf,'Bang? Voor kanker? Welnee. Je moet ergens aan doodgaan'; KankeronderzoekPiet Borst krijgt 'Amerikaanse,"Interview Piet Borst oud-directeur Nederlands Kanker Instituut
+Piet Borst ontvangt de Lasker Award voor zijn onderzoek naar kanker en zijn maatschappelijke verdiensten. VOLLEDIGE TEKST:
+Piet Borst zit er onaangedaan bij, dinsdag bij hem thuis in Bussum, met een kopje thee en een biscuitje, twee
+dagen voordat het nieuws over de Lasker Award bekend wordt gemaakt. Maar hij vindt het, zegt hij, natuurlijk
+,,ontzettend leuk"" en ,,een hele eer"", vooral voor het Kankerinstituut.",positief,0.6365665189742759,0.36343348102572415,positief,0.5870941763036275,0.4129058236963725,positief,0.5324408793977933,0.4675591206022067
+120,Bericht 120_Zijn die betere kankermedicijnen al dat geld waard__  Geneeskunde Zijn die betere kankermedicijnen.pdf,Zijn die betere kankermedicijnen al dat geld waard?; Geneeskunde Zijn die betere kankermedicijnen al dat,"Dure geneesmiddelen
+Door nieuwe medicijnen blijven kankerpatiënten langer leven. Maar dat kost steeds meer geld, in 2021 zelfs al
+1,5 miljard euro. ,,We zullen pijnlijke keuzes moeten maken.""
+VOLLEDIGE TEKST:
+Het spreekuur van longarts Egbert Smit is de afgelopen tien jaar radicaal veranderd.",positief,0.7057585159538045,0.29424148404619566,positief,0.6440780449024036,0.3559219550975964,positief,0.5177628969179704,0.48223710308202955
+121,Bericht 121_Groter deel budget naar medicijnen tegen kanker.pdf,Groter deel budget naar medicijnen tegen kanker,"Steeds meer geld gaat naar kankermedicijnen, meldde het Integraal Kankercentrum Nederland (IKNL) gisteren.. In 2012 ging een kwart van het totale geneesmiddelenbudget naar middelen tegen kanker. In 2021 was dat meer
+dan de helft van de totale uitgaven.",positief,0.758612769168954,0.24138723083104596,positief,0.7112749629195807,0.2887250370804193,negatief,0.3689950022233137,0.6310049977766863
+124,Bericht 124_Robot wordt straks chirurg in ziekenhuis_ zorg Bij oncologische operaties in Noordwest.pdf,Robot wordt straks chirurg in ziekenhuis; zorg Bij oncologische operaties in Noordwest,"zorg Bij oncologische operaties in Noordwest
+Om kankerpatiënten nauwkeuriger te kunnen opereren gaat het Noordwest Ziekenhuis (NWZ) in Alkmaar vanaf
+begin 2024 een robot voor oncologische ingrepen inzetten. Alkmaar
+,,Er worden momenteel drie chirurgen en twee urologen getraind. Op den duur gaat iedere oncologische chirurg
+ermee opereren, willen we het verder uitrollen"", vertelt Hermien Schreurs.",positief,0.6522720953210979,0.347727904678902,positief,0.7379659769703913,0.26203402302960865,negatief,0.458100094142559,0.541899905857441
+126,Bericht 126_Doorbraak in behandeling van darmkanker.pdf,Doorbraak in behandeling van darmkanker,"Een nieuwe behandelmethode tegen buikvliesuitzaaiingen bij darmkanker, van het Catharina Ziekenhuis
+Eindhoven en het Erasmus MC Rotterdam, slaat boven verwachting goed aan. Dat blijkt uit een kleinschalig onderzoek dat de afgelopen vier jaar plaatsvond in beide ziekenhuizen. De nieuwe
+behandel­methode, Interact geheten, verlengt levens en kan ze potentieel zelfs redden.",positief,0.6877854841155907,0.3122145158844093,positief,0.6888810613821816,0.31111893861781836,negatief,0.426716318784958,0.5732836812150419
+127,Bericht 127_Grotere kans op overleving na doorbraak behandeling uitgezaaide blaaskanker.pdf,Grotere kans op overleving na doorbraak behandeling uitgezaaide blaaskanker,"Na veertig jaar is er een doorbraak in de behandeling van uitgezaaide blaaskanker. Voor patiënten betekent
+dat een grotere kans op overleving of het langer wegblijven van tumoren, zegt medisch oncoloog Michiel van der
+Heijden van het Antoni van Leeuwenhoek. Het succes zit 'm in het combineren van therapieën.",positief,0.7515308741387233,0.24846912586127667,positief,0.6272305601506357,0.3727694398493643,negatief,0.44059338298321626,0.5594066170167837
+128,Bericht 128_Nieuwe behandeling blaaskanker_ meer overlevingskans.pdf,Nieuwe behandeling blaaskanker: meer overlevingskans,"De afgelopen vier decennia werd uitgezaaide blaaskanker behandeld met chemotherapie. De resultaten waren
+beperkt, vertelt Michiel van der Heijden, medisch oncoloog van het Antoni van Leeuwenhoek (AVL) in Amsterdam
+en betrokken bij twee belangrijke studies die gisteren in Madrid werden gepresenteerd. ,,De overlevingskans met uitgezaaide blaaskanker is, bij de huidige mogelijkheden, laag.",positief,0.6662617647631153,0.33373823523688484,positief,0.718455046415329,0.281544953584671,negatief,0.4068938976279284,0.5931061023720716
+144,Bericht 144_Beter leven _ex-_ kankerpati_nten.pdf,Beter leven (ex-) kankerpatiënten,"UMCG ontvangt 6,6 miljoen euro voor onderzoek
+Het onderzoek moet behandeling en het leven van (ex-)kankerpatiënten verbeteren. Het geld is afkomstig van
+KWF Kankerbestrijding. Dat verdeelt in totaal 26 miljoen euro (van donateurs) over 31 nieuwe kankeronderzoeken
+in het land.",positief,0.7565574236387483,0.24344257636125166,positief,0.871397014449229,0.12860298555077104,negatief,0.44154253602027893,0.5584574639797211
+146,Bericht 146_Eigen afweer strijdt tegen kanker.pdf,Eigen afweer strijdt tegen kanker,"Immuuntheraptie is hoop voor de toekomst
+Hij is een prototype van een gedreven onderzoeker. Hij denkt het liefst twee stappen vooruit, is volhardend,
+ongeduldig en trots op wat hij heeft bereikt en nog zal bereiken. Christian Blank, professor doctor, geldt als een
+autoriteit op het gebied van immuuntherapie, een behandeling die ervoor zorgt dat het menselijk lichaam een zo
+optimaal mogelijk afweersysteem heeft om kankercellen te vernietigen.",positief,0.6390164348163108,0.3609835651836893,positief,0.7260192231961871,0.2739807768038129,negatief,0.433030416095773,0.566969583904227
+149,Bericht 149_Maag-slokdarmkanker nu beter te behandelen.pdf,Maag-slokdarmkanker nu beter te behandelen,"Patiënten met maag-slokdarmkanker hebben baat bij een nieuwe vorm van behandeling. Het gaat om het
+combineren van immuuntherapie met chemotherapie vóór de operatie. Bij een groot deel van de patiënten slinkt of
+verdwijnt de tumor.",positief,0.6988036925812222,0.30119630741877784,positief,0.7568036749168305,0.24319632508316952,negatief,0.42661163676205105,0.573388363237949
+152,Bericht 152_Radboudumc krijgt kliniek voor ______experimentele kankermedicijnen (1).PDF,Radboudumc krijgt kliniek voor â€ƒâ€‚experimentele kankermedicijnen,"Het Radboudumc in Nijmegen start eind deze maand met een speciale kliniek voor patiënten met kanker waar
+reguliere behandelingen niet meer bij helpen. Ze krijgen er de nieuwste medicijnen, die nog experimenteel zijn. ,,We willen de middelen van morgen vandaag al aanbieden"", zegt Carla van Herpen, hoogleraar Rare Cancers
+(zeldzame kankers) van de Radboud Universiteit en oncoloog bij het Radboudumc.",positief,0.70690162873217,0.29309837126783,positief,0.7573068442084088,0.24269315579159123,positief,0.5299893617630005,0.4700106382369995
+157,Bericht 157_Geld is een perverse prikkel_ (1).PDF,'Geld is een perverse prikkel',"Medische klokkenluider Jim Reekers
+Artsen verwijderen jaarlijks ongeveer zeshonderd baarmoeders terwijl dat niet nodig is, omdat er een goedkoper
+alternatief voor de behandeling van vleesbomen bestaat. Ook andere operaties zijn vaak onnodig. ,,Geld is de
+meest perverse prikkel in de gezondheidszorg, en dat leidt tot misschien wel 30 procent onnodige medische
+ingrepen per jaar'', zegt Jim Reekers, emeritus-hoogleraar interventieradiologie.",positief,0.582817139019776,0.4171828609802239,positief,0.5903537285969578,0.4096462714030421,negatief,0.4485295192296086,0.5514704807703914
+160,Bericht 160_Mutatie geeft therapie meer grip op tumor.pdf,Mutatie geeft therapie meer grip op tumor,"Onderzoek bij muizen biedt uitzicht op een genetische test die bij kankerpatiënten kan voorspellen of
+immuuntherapie zal aanslaan. VOLLEDIGE TEKST:
+Tumorcellen met bepaalde veranderingen in het dna van hun mitochondriën, de energiefabrieken van een cel, zijn
+2,5 keer gevoeliger voor immuuntherapie. Dat wijst onderzoek uit bij muizen die huidkanker kregen na
+transplantatie met kankercellen.",positief,0.7513078119098215,0.2486921880901784,positief,0.7511610562408415,0.2488389437591584,negatief,0.4399315924801781,0.5600684075198219
+166,Bericht 166_De waar-vraag.pdf,De waar-vraag,"De week in wetenschap
+Het was bij toeval dat de ziekte aan het licht kwam, bij behandeling van een vergrote prostaat; maar prostaatkanker
+was het niet, aldus Buckingham Palace deze week. Dus kwamen de speculaties los. Welke kankersoort kan het zijn, die men bij koning Charles heeft vastgesteld?",positief,0.6226782202720642,0.3773217797279358,positief,0.7342599321662094,0.26574006783379056,negatief,0.4456252319233237,0.5543747680766762
+168,Bericht 168_Hoe dodelijk is kanker_ Is de ziekte erfelijk_.pdf,Hoe dodelijk is kanker? Is de ziekte erfelijk?,"Antwoorden op lezersvragen
+Eric Reijnen Rutten
+Nijmegen
+Voor welke vormen van kanker zijn er experimentele medicijnen/behandelingen? Daar is moeilijk een volledig antwoord op te geven. Alleen al bij het Radboudumc zijn er tientallen studies waaraan
+meegedaan kan worden.",positief,0.6541169186788347,0.3458830813211652,positief,0.6002491362993425,0.39975086370065743,negatief,0.44865413434962953,0.5513458656503705
+177,Bericht 177_Nieuwe medicatie tegen kanker valt vaak fors tegen.pdf,Nieuwe medicatie tegen kanker valt vaak fors tegen,"Om de haverklap komen er nieuwe middelen tegen kanker beschikbaar. De onderzoeksresultaten zijn vaak
+veelbelovend en als het medicijn dan ook nog veilig blijkt, komt het in veel landen op de markt. Meestal tegen een
+zeer hoge vergoeding.",positief,0.6515625697084064,0.3484374302915936,positief,0.6406623405024464,0.3593376594975536,negatief,0.3697445606574943,0.6302554393425057
+178,Bericht 178_De kankerbehandeling als Oudejaarsloterij.pdf,De kankerbehandeling als Oudejaarsloterij,"Vroeger was het voor ons zorgverleners eenvoudig, zegt Eric Geijteman, internist-oncoloog in het Rotterdamse
+ErasmusMC. Geijteman doet onderzoek naar de zorg aan het einde van het leven. ""Als de conditie van iemand
+met uitgezaaide kanker achteruitging, dan wisten we dat die patiënt op afzienbare termijn zou overlijden.",positief,0.6308997751650047,0.36910022483499527,positief,0.6888351245893108,0.31116487541068916,negatief,0.421804437430129,0.5781955625698709
+181,Bericht 181_Ik wilde geen Albert Schweitzer zijn_ (1).PDF,'Ik wilde geen Albert Schweitzer zijn',"Het ideaal: Wilbert Bannenberg, consultant en activist
+Midden in het tropisch regenwoud, op zo'n tweehonderd kilometer van de Ghanese hoofdstad Accra, staat een
+ziekenhuis van de katholieke missie, waar in 1975 maar één dokter werkt, terwijl zich dagelijks driehonderd
+patiënten aandienen. Als stagiair moet een Nederlandse, vierdejaars student geneeskunde samen met lokale
+verpleegkundigen een eerste schifting aanbrengen. 'Ik kreeg per patiënt 45 seconden voor de diagnose.",positief,0.6659079101664258,0.33409208983357414,positief,0.5566421259645642,0.4433578740354358,negatief,0.42607865773541737,0.5739213422645826
+182,Bericht 182_Soms loont even afwachten bij kanker.pdf,Soms loont even afwachten bij kanker,"Oncologie De-escalatie
+Na 227 chemopillen en 28 bestralingen was de tumor van Harrie Keusters zoek. In het voorjaar van 2013 was bij
+hem endeldarmkanker vastgesteld. Op een 'rotplek', had de chirurg er meteen maar bij gezegd: vlak bij de
+prostaat, in de buurt van centrale zenuwbanen.",positief,0.6712712662889213,0.32872873371107875,positief,0.6258738429198891,0.3741261570801108,negatief,0.4071353077888489,0.5928646922111511
+200,Bericht 200_We overwinnen meer ziektes_.pdf,'We overwinnen meer ziektes',"Meer chronisch zieken, maar artsen hebben hoop voor de toekomst
+Voor welke ziektes zijn we het bangst en is dat terecht? Dat was vroeger zeker kanker, zegt huisarts Tamara de Weijer. De laatste jaren merkt ze dat die angst wat is
+afgenomen.",positief,0.7137772406792554,0.2862227593207446,positief,0.6726246572949697,0.32737534270503027,negatief,0.46629531877669705,0.533704681223303
+226,Bericht 226_Veelvraatcellen_ krikken afweer op om kanker aan te pakken.pdf,'Veelvraatcellen' krikken afweer op om kanker aan te pakken,"Onderzoekers van het Leids Universitair Medisch Centrum hebben ontdekt hoe de natuurlijke afweer van het
+menselijke lichaam veel effectiever kan worden ingezet tegen kanker. Sleutel is het mobiliseren van speciale
+veelvraatcellen, zogenoemde macrofagen. Tot nog toe werd aangenomen dat deze macrofagen juist bestreden moesten worden bij immuuntherapie.",positief,0.7113568892782437,0.2886431107217563,positief,0.7516230530067357,0.2483769469932643,negatief,0.46978095879966225,0.5302190412003378
+227,Bericht 227_Immuuntherapie v__r operatie huidkanker levert meer op.pdf,Immuuntherapie vóór operatie huidkanker levert meer op,"Onderzoek van het Antoni van Leeuwenhoek laat zien dat 59 procent van de patiënten die in deze volgorde werden
+behandeld, geen enkele nabehandeling meer nodig had. Na een jaar was 84 procent van de succesvol behandelde
+patiënten ook nog steeds tumorvrij. Dat is een aanmerkelijk hoger percentage dan in de controlegroep die de
+standaardbehandeling kreeg (57 procent).",positief,0.7221422085899633,0.27785779141003675,positief,0.7068477513819676,0.29315224861803235,negatief,0.40460827040753305,0.5953917295924669
+229,Bericht 229_Tumorvrij bij huidkanker_ _Baanbrekend_ onderzoek door immuuntherapie v__r in plaats van na operati.pdf,Tumorvrij bij huidkanker; 'Baanbrekend' onderzoek door immuuntherapie vóór in plaats van na operatie te,"'Baanbrekend' onderzoek door immuuntherapie vóór in plaats van na operatie te geven
+Amsterdam
+Immuuntherapie vóór een operatie kan ervoor zorgen dat mensen met uitgezaaide huidkanker weer tumorvrij
+worden en blijven. Dat blijkt uit 'baanbrekend onderzoek' van het Antoni van Leeuwenhoek ziekenhuis. ,,Bij 59 procent van de patiënten was de tumor bijna volledig of compleet verdwenen"", zegt onderzoeksleider
+Christian Blank.",positief,0.6506234803200697,0.3493765196799303,positief,0.5477293565764941,0.45227064342350587,negatief,0.4849036940989676,0.5150963059010323
+230,Bericht 230_Immuuntherapie v__r operatie uitgezaaide huidkanker biedt veelbelovende resultaten.pdf,Immuuntherapie vóór operatie uitgezaaide huidkanker biedt veelbelovende resultaten,"Van de ruim tweehonderd patiënten met een melanoom die voor de operatie immuuntherapie kregen, was na
+een jaar nog 84 procent kankervrij, tegen 57 procent in de groep die na de operatie werd behandeld. De patiënten
+die meteen immuuntherapie kregen, hadden maar twee kuren nodig, terwijl de standaardbehandeling na de
+operatie uit acht tot twaalf kuren bestaat. 'Dat scheelt ook nog eens bijwerkingen en geld', laat onderzoeksleider Christian Blank weten vanuit Chicago, waar
+hij zondag de onderzoeksresultaten presenteerde op het ASCO, het belangrijkste internationale oncologiecongres.",positief,0.6862159843540687,0.31378401564593134,positief,0.6862372242855443,0.31376277571445566,positief,0.5693102589173222,0.43068974108267777
+232,Bericht 232_Succesvolle behandeling is nog niet beschikbaar.pdf,Succesvolle behandeling is nog niet beschikbaar,"Patiënten met uitgezaaide huidkanker hebben in de meeste gevallen baat bij immuuntherapie vóórdat ze worden
+geopereerd. Dat blijkt uit onderzoek van het Antoni van Leeuwenhoekziekenhuis. Nadeel: de behandeling is nu
+nog niet beschikbaar.",positief,0.5983613045170186,0.40163869548298137,positief,0.6720485883954768,0.3279514116045231,negatief,0.42859336733818054,0.5714066326618195
+233,Bericht 233_Het voelde alsof ik in een slechte film zat__ interview Astrid Nollen had uitgezaaide melanoom en (1).PDF,'Het voelde alsof ik in een slechte film zat'; interview Astrid Nollen had uitgezaaide melanoom en nog kort te,"interview Astrid Nollen had uitgezaaide melanoom en nog kort te leven
+Astrid Nollen uit Bussum is halverwege de dertig en moeder van drie jonge kinderen als ze een verwoestende
+uitslag krijgt. Ze heeft uitgezaaide melanoom. ,,Ik had vier tumoren in mijn hoofd, zestien uitzaaiingen in mijn lijf
+en een levensverwachting van nog twee tot vier maanden.",positief,0.5433338448957546,0.45666615510424535,negatief,0.45388108491897583,0.5461189150810242,negatief,0.42026400517967255,0.5797359948203274
+235,Bericht 235_Korte immuuntherapie v__r operatie succesvol bij bepaalde vorm darmkanker.pdf,Korte immuuntherapie vóór operatie succesvol bij bepaalde vorm darmkanker,"De resultaten verschijnen donderdag in vakblad NEJM. Het is voor de tweede keer in een week tijd dat
+Nederlandse artsen aantonen dat het veel beter is om kankerpatiënten meteen immuuntherapie te geven, al voor
+de operatie. Dan zit de tumor immers nog in het lichaam, staat het immuunsysteem paraat en kan een extra zetje
+de immuuncellen stimuleren.",positief,0.7332980058633616,0.2667019941366384,positief,0.7915675004061693,0.20843249959383064,negatief,0.48396647767397316,0.5160335223260268
+236,Bericht 236_Ik ben mijn artsen ontzettend dankbaar__ Dankzij immuuntherapie van darmkanker genezen Anne Rog-De.pdf,'Ik ben mijn artsen ontzettend dankbaar'; Dankzij immuuntherapie van darmkanker genezen Anne Rog-De,"Dankzij immuuntherapie van darmkanker genezen Anne Rog-De Graaf kan weer genieten van het leven
+De resultaten zijn baanbrekend: bij alle 111 darmkankerpatiënten die onderzoeker Myriam Chalabi behandelde met
+immuuntherapie, is de ziekte niet teruggekomen. Anne Rog-De Graaf deed mee aan de studie en vertelt haar
+succesverhaal. ,,Waanzinnig dat ik met zo'n korte behandeling helemaal schoon ben.""
+'Ik ga het niet redden', dacht Anne Rog-de Graaf (35) toen ze eind 2021 hoorde dat ze darmkanker had.",positief,0.7419464665071229,0.2580535334928771,positief,0.7215496634159553,0.2784503365840447,positief,0.5407910413130568,0.4592089586869432
+238,Bericht 238_Doorbraak onderzoek darmkanker (1).PDF,Doorbraak onderzoek darmkanker,"AMSTERDAM - De genezing van darmkanker is weer een stapje dichterbij. Uit recent onderzoek van het Antoni
+van Leeuwenhoek (AVL) blijkt dat immuuntherapie heel efficiënt werkt tegen een specifiek type van deze ziekte, die
+jaarlijks 1800 mensen treft. Alle 111 patiënten die deelnamen aan de studie zijn nu kankervrij.",positief,0.6171025424454222,0.38289745755457777,positief,0.7052999647051086,0.2947000352948914,negatief,0.4136070527314357,0.5863929472685643
+239,Bericht 239_Doorbraak in darmkankeronderzoek.pdf,Doorbraak in darmkankeronderzoek,"Interview Myriam Chalabi internist-oncoloog
+Een experimentele immuunbehandeling blijkt zeer effectief tegen een bepaalde vorm van darmkanker. VOLLEDIGE TEKST:
+Collectief hapten de kankeronderzoekers in de grote congreszaal in Parijs naar adem, in 2022, toen
+kankeronderzoeker Myriam Chalabi de grafiek met de resultaten van haar studie naar een nieuwe behandeling
+tegen een vorm van darmkanker tevoorschijn haalde. Bij álle 107 patiënten was de tumor geslonken, bleek na een
+operatie, bij 95 procent maar liefst tot minder dan een tiende van de tumor.",positief,0.6323353666506886,0.36766463334931154,positief,0.5709907803542491,0.42900921964575084,negatief,0.41040134076161605,0.589598659238384
+245,Bericht 245_In de basisverzekering_ Borstkankertherapie.pdf,In de basisverzekering; Borstkankertherapie,"Immunotherapie pembrolizumab voor vrouwen met borstkanker wordt, als het aan het Zorginstituut ligt, binnenkort
+vergoed vanuit de basisverzekering. Jonge vrouwen met borstkanker hebben mogelijk een hogere
+overlevingskans als ze vóór hun operatie behandeld worden met deze therapie. Hoewel het wetenschappelijk
+bewijs nog niet sluitend is, zien experts waarde in de therapie.",positief,0.7197254280619567,0.2802745719380433,positief,0.6506713257054675,0.3493286742945325,positief,0.5005343854427338,0.49946561455726624
+248,Bericht 248_Kunnen we onze medicijnen wel vertrouwen_.pdf,Kunnen we onze medicijnen wel vertrouwen?,"Europees Geneesmiddelenagentschap
+Oncoloog Anneke Westermann was 'door het dolle heen' toen in 2016 het medicijn Lartruvo op de markt kwam. ""Het zou de vooruitzichten voor mensen met weke-delenkanker, zoals tumoren in de spieren of bloedvaten,
+aanzienlijk verbeteren. Het idee was dat ze er maanden tot jaren langer door zouden leven"", zegt Westermann,
+inmiddels met pensioen maar destijds werkzaam in het Amsterdam UMC.",positief,0.7032836943293193,0.29671630567068086,positief,0.662691742181778,0.33730825781822205,positief,0.500320859576443,0.499679140423557
+255,Bericht 255_Uitzaaiende tumoren kapen hun hele omgeving_  Kanker Een tumor is een complex mini-orgaantje dat zi.pdf,Uitzaaiende tumoren kapen hun hele omgeving; Kanker Een tumor is een complex mini-orgaantje dat zichzelf,"Kankergeneeskunde Tumoren die uitzaaien zijn nauwelijks te genezen en zijn de belangrijkste doodsoorzaak van
+kankerpatiënten. Nieuw onderzoek laat zien dat tumoren hun omgeving naar hun hand zetten. VOLLEDIGE TEKST:
+Voor het eerst kunnen onderzoekers live onder de microscoop volgen hoe een tumor zich uitzaait.",positief,0.6266686022281647,0.3733313977718353,positief,0.7206450131280102,0.27935498687198984,negatief,0.41641521200022813,0.5835847879997718
+256,Bericht 256_Beloftevolle behandeling kanker niet vergoed.pdf,Beloftevolle behandeling kanker niet vergoed,"door Klaartje Bax
+Amsterdam - Vrouwen met borstkanker kunnen voorlopig nog niet voor hun operatie behandeld worden met
+immunotherapie pembrolizumab. Dat heeft zorgminister Pia Dijkstra besloten. Ze wijkt daarmee af van het advies
+van het Zorginstituut.",positief,0.5092333607377749,0.49076663926222497,positief,0.5746564347351122,0.4253435652648878,negatief,0.3940643629805948,0.6059356370194052
+261,Bericht 261_Medicijn baarmoeder- kanker in basispakket__ Positief advies zorginstituut.pdf,'Medicijn baarmoeder- kanker in basispakket'; Positief advies zorginstituut,"Positief advies zorginstituut
+UTRECHT - Een nieuw medicijn tegen baarmoederkanker verdient het volgens Zorginstituut Nederland om te
+worden opgenomen in het basispakket van de zorgverzekering. Het instituut heeft positief geadviseerd aan
+minister Agema (Volksgezondheid). Het medicijn dostarlimab (merknaam Jemperli) vergroot in combinatie met
+chemotherapie de overlevingskans van vrouwen met gevorderde of terugkerende baarmoederkanker aanzienlijk.",positief,0.5436592860120322,0.45634071398796777,positief,0.6267879686184987,0.3732120313815013,negatief,0.4719236111054117,0.5280763888945883
+262,Bericht 262_Kankerpati_nt heeft nu meer overlevingskans dan begin deze eeuw.pdf,Kankerpatiënt heeft nu meer overlevingskans dan begin deze eeuw,"Wie tegenwoordig de diagnose kanker krijgt, heeft aanzienlijk meer kans dat te overleven dan twintig jaar geleden. Dat blijkt uit nieuwe cijfers die het Integraal Kankercentrum Nederland (IKNL) maandag publiceerde. Het komt
+onder meer door nieuwe behandelingen en vroege opsporing.",positief,0.7181168901740888,0.28188310982591125,positief,0.6406091153254249,0.35939088467457514,negatief,0.4048885792112819,0.595111420788718
+271,Bericht 271_Beschikbaarheid van dure_ levensreddende medicatie is in gevaar.pdf,"Beschikbaarheid van dure, levensreddende medicatie is in gevaar","De NZA maakt zich zorgen over gebrek aan tegenmacht van de verzekeraars, schrijven Adriaan Bins en Britt
+Suelmann. Maar de tegenmacht van de patiënt dan? VOLLEDIGE TEKST:
+De roep om transparantie is overal te horen in de samenleving.",positief,0.5038742885472738,0.4961257114527262,negatief,0.41058806403681847,0.5894119359631815,negatief,0.4363238360006578,0.5636761639993422
+287,Bericht 287_Immuuntherapie prostaatkanker bij groep succesvol.pdf,Immuuntherapie prostaatkanker bij groep succesvol,"Immuuntherapie tegen prostaatkanker werkt opmerkelijk goed bij mannen die een bepaalde genetische afwijking
+hebben. Dat blijkt uit onderzoek van het Radboudumc in Nijmegen. Oncoloog Niven Mehra pleit er naar aanleiding
+van de uitkomsten van dat onderzoek voor om vroeg in het ziekteproces naar het dna van de tumor te kijken.",positief,0.6926261782646179,0.3073738217353821,positief,0.7208490766833047,0.2791509233166953,negatief,0.46797601037789494,0.5320239896221051
+296,Bericht 296_In de zorg zijn we te lief voor elkaar_ zo komen we er niet_.pdf,"'In de zorg zijn we te lief voor elkaar, zo komen we er niet'","Gezondheidszorg: Sjaak Wijma
+Denk je, vraagt Sjaak Wijma aan het eind van het gesprek, dat ik in de 25 jaar dat ik gynaecoloog was, me ooit
+zorgen heb gemaakt waaraan ik het geld uitgaf? Om meteen zelf het antwoord te geven: 'Never.'
+Deze week zwaait hij af als bestuursvoorzitter van Zorginstituut Nederland, waaraan hij de laatste acht jaar leiding
+gaf. Deze organisatie bepaalt welke behandelingen en medicijnen worden vergoed vanuit het basispakket van de
+zorgverzekering.",positief,0.6414753701537637,0.3585246298462363,positief,0.6028733849525452,0.39712661504745483,positief,0.5398005843162537,0.46019941568374634
+300,Bericht 300_Doodgaan is geen optie__ behandeling zou leven van topatleet Jeroen Reesen _39_ kunnen redden_ maa.pdf,"'Doodgaan is geen optie'; behandeling zou leven van topatleet Jeroen Reesen (39) kunnen redden, maar wordt","behandeling zou leven van topatleet Jeroen Reesen (39) kunnen redden, maar wordt hier niet vergoed
+Jeroen Reesen was een extreme duursporter, die over de hele wereld wedstrijden liep. Tot bij hem oogkanker
+werd geconstateerd. Een duur medicijn kan redding brengen, maar het middel wordt in Nederland niet vergoed.",positief,0.5867868363857269,0.41321316361427307,positief,0.5067586302757263,0.4932413697242737,negatief,0.44416662005214347,0.5558333799478565
+306,Bericht 306_Nieuwe behandeling lymfeklierkanker.pdf,Nieuwe behandeling lymfeklierkanker,"Een nieuw immuun-medicijn zorgt ervoor dat bij Hodgkin-patiënten de kanker minder vaak terugkeert. VOLLEDIGE TEKST:
+Een nieuwe behandeling verbetert het vooruitzicht voor mensen met de ziekte van Hodgkin, een zeldzame vorm
+van lymfeklierkanker. De combinatie van een nieuwe immuuntherapie en chemotherapie leidt tot minder
+bijwerkingen en de kanker keert minder vaak terug, blijkt uit een studie die vandaag in The New England Journal of
+Medicine verschijnt.",positief,0.7013512951149556,0.29864870488504425,positief,0.7096030493977419,0.2903969506022581,negatief,0.46790383818529785,0.5320961618147022
