@@ -7,4 +7,4 @@ Three NLP approaches were explored:
 2. **Natural Language Inference (NLI) models** – using hypothesis and entailment.
 3. **Generative models** – such as Llama and GPT.
 
-Llama 3.3 70B produced results most similar to human annotations.
+Llama 3.3 70B produced results most similar to human annotations with an accuracy of >80%.
